@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# zip extraction files
+competitors.csv
+rounds.csv
+submissions.csv
+votes.csv
